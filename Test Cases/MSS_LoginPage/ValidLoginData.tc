@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidLoginData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19bbc5a4-4612-47e7-8c38-37d720a43b99</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f088720b-65f6-480e-b9bd-02070bc8c0fd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>376136f7-a044-4cce-9f58-28b2f788513a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

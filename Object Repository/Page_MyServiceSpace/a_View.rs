@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View</name>
+   <tag></tag>
+   <elementGuidId>d38d0f6f-d8ac-4f64-9907-e235455e3945</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'https://my-service-space-uat.orange-business.com/wacsmss/group/mssportal/-/test-muriel?inheritRedirect=true&amp;redirect=%2Fwacsmss%2Fgroup%2Fmssportal%2Fhome' and (text() = 'View' or . = 'View')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p_p_id_101_INSTANCE_rILFtCK1Ijt1_']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://my-service-space-uat.orange-business.com/wacsmss/group/mssportal/-/test-muriel?inheritRedirect=true&amp;redirect=%2Fwacsmss%2Fgroup%2Fmssportal%2Fhome</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track-leaf</name>
+      <type>Main</type>
+      <value>test mumu</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_p_id_101_INSTANCE_rILFtCK1Ijt1_&quot;)/div[@class=&quot;portlet-borderless-container&quot;]/div[@class=&quot;portlet-body&quot;]/div[@class=&quot;asset-publisher-body&quot;]/div[@class=&quot;portlet-boundary portlet-borderless portlet-asset-publisher announcement portlet-draggable&quot;]/div[@class=&quot;portlet-borderless-container&quot;]/div[@class=&quot;portlet-body&quot;]/div[@class=&quot;asset-publisher-body&quot;]/div[@class=&quot;asset-abstract&quot;]/div[@class=&quot;asset-content&quot;]/div[@class=&quot;asset-more&quot;]/a[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p_p_id_101_INSTANCE_rILFtCK1Ijt1_']/div/div/div[2]/div[2]/div/div/div/div[2]/div/div[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test mumu'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST MURIEL'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://my-service-space-uat.orange-business.com/wacsmss/group/mssportal/-/test-muriel?inheritRedirect=true&amp;redirect=%2Fwacsmss%2Fgroup%2Fmssportal%2Fhome')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

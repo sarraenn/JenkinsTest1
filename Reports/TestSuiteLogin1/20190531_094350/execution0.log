@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833046</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TestSuiteLogin1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TestSuiteLogin1</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TestSuiteLogin1</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833065</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = QWFB4330 - EQ-EQ6289465.ad.francetelecom.fr</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">QWFB4330 - EQ-EQ6289465.ad.francetelecom.fr</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833066</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833067</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 10.239.114.235</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.239.114.235</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833070</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.2.2</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.2.2</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833368</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/MSS_LoginPage/ValidLoginTest</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/MSS_LoginPage/ValidLoginTest</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/MSS_LoginPage/ValidLoginTest</property>
+  <property name="source">C:\\Users\\QWFB4330\\Katalon Studio\\FirstProject\\Test Cases\\MSS_LoginPage\\ValidLoginTest.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:53</date>
+  <millis>1559295833871</millis>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2019-05-31T09:43:54</date>
+  <millis>1559295834292</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:43:54</date>
+  <millis>1559295834506</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840576</millis>
+  <sequence>12</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 47fcc876-55f5-49d6-9759-fb64037a611a</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">47fcc876-55f5-49d6-9759-fb64037a611a</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840620</millis>
+  <sequence>13</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 60.0</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Firefox 60.0</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840622</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 10</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Windows 10</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840630</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.7.1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.7.1</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840632</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840633</millis>
+  <sequence>17</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840634</millis>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:00</date>
+  <millis>1559295840634</millis>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&amp;amp;REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&amp;amp;GUID=&amp;amp;SMAUTHREASON=0&amp;amp;METHOD=GET&amp;amp;SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&amp;amp;TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&amp;amp;codeContexte=MSS\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">18</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:03</date>
+  <millis>1559295843998</millis>
+  <sequence>22</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&amp;amp;REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&amp;amp;GUID=&amp;amp;SMAUTHREASON=0&amp;amp;METHOD=GET&amp;amp;SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&amp;amp;TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&amp;amp;codeContexte=MSS&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:03</date>
+  <millis>1559295843999</millis>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&amp;amp;REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&amp;amp;GUID=&amp;amp;SMAUTHREASON=0&amp;amp;METHOD=GET&amp;amp;SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&amp;amp;TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&amp;amp;codeContexte=MSS\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844000</millis>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user\&amp;quot;), \&amp;quot;mss_uat_tst_smile_marc\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">20</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844144</millis>
+  <sequence>33</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;mss_uat_tst_smile_marc&amp;apos; is set on object &amp;apos;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844144</millis>
+  <sequence>34</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user\&amp;quot;), \&amp;quot;mss_uat_tst_smile_marc\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844145</millis>
+  <sequence>35</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd\&amp;quot;), \&amp;quot;ijdvIsWMz78SLKul36eVLbCn/PuUMCA6cHe61FHJLWM=\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">22</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844268</millis>
+  <sequence>44</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844268</millis>
+  <sequence>45</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd\&amp;quot;), \&amp;quot;ijdvIsWMz78SLKul36eVLbCn/PuUMCA6cHe61FHJLWM=\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844269</millis>
+  <sequence>46</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844544</millis>
+  <sequence>53</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844546</millis>
+  <sequence>54</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:04</date>
+  <millis>1559295844547</millis>
+  <sequence>55</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2019-05-31T09:44:06</date>
+  <millis>1559295846080</millis>
+  <sequence>57</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:06</date>
+  <millis>1559295846080</millis>
+  <sequence>58</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:06</date>
+  <millis>1559295846080</millis>
+  <sequence>59</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/MSS_LoginPage/ValidLoginTest</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:06</date>
+  <millis>1559295846081</millis>
+  <sequence>60</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/MSS_LoginPage/ValidLoginTest</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-31T09:44:06</date>
+  <millis>1559295846118</millis>
+  <sequence>61</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/TestSuiteLogin1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

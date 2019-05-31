@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuiteLogin1,Firefox 60.0,,,2019-05-31 09:43:53,2019-05-31 09:44:06,"13,072s",PASSED
+,,,,,,,
+Test Cases/MSS_LoginPage/ValidLoginTest,Firefox 60.0,,,2019-05-31 09:43:53,2019-05-31 09:44:06,"12,713s",PASSED
+"openBrowser("""")",Firefox 60.0,,,2019-05-31 09:43:53,2019-05-31 09:44:00,"6,763s",PASSED
+"navigateToUrl(""https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&codeContexte=MSS"")",Firefox 60.0,,,2019-05-31 09:44:00,2019-05-31 09:44:03,"3,365s",PASSED
+"setText(findTestObject(""Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user""), ""mss_uat_tst_smile_marc"")",Firefox 60.0,,,2019-05-31 09:44:04,2019-05-31 09:44:04,"0,144s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd""), ""ijdvIsWMz78SLKul36eVLbCn/PuUMCA6cHe61FHJLWM="")",Firefox 60.0,,,2019-05-31 09:44:04,2019-05-31 09:44:04,"0,123s",PASSED
+"click(findTestObject(""Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in""))",Firefox 60.0,,,2019-05-31 09:44:04,2019-05-31 09:44:04,"0,277s",PASSED
+closeBrowser(),Firefox 60.0,,,2019-05-31 09:44:04,2019-05-31 09:44:06,"1,533s",PASSED

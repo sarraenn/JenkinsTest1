@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteLogin1" time="13" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuiteLogin1" tests="1" failures="0" errors="0" time="13" timestamp="2019-05-31 09:43:53" hostname="QWFB4330 - EQ-EQ6289465.ad.francetelecom.fr" id="Test Suites/TestSuiteLogin1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\QWFB4330\\Katalon Studio\\FirstProject\\Reports\\TestSuiteLogin1\\20190531_094350"/>
+         <property name="logFiles" value="C:\\Users\\QWFB4330\\Katalon Studio\\FirstProject\\Reports\\TestSuiteLogin1\\20190531_094350\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="QWFB4330 - EQ-EQ6289465.ad.francetelecom.fr"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.1.2.2"/>
+         <property name="browser" value="Firefox 60.0"/>
+         <property name="hostAddress" value="10.239.114.235"/>
+         <property name="sessionId" value="47fcc876-55f5-49d6-9759-fb64037a611a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/MSS_LoginPage/ValidLoginTest" classname="Test Cases/MSS_LoginPage/ValidLoginTest" status="PASSED">
+         <system-out><![CDATA[2019-05-31 09:43:53 - [TEST_CASE][PASSED] - Test Cases/MSS_LoginPage/ValidLoginTest: Test Cases/MSS_LoginPage/ValidLoginTest
+
+2019-05-31 09:43:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-31 09:43:54 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2019-05-31 09:43:54 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-05-31 09:44:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-31 09:44:00 - [TEST_STEP][PASSED] - navigateToUrl("https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&codeContexte=MSS"): Navigate to 'https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&codeContexte=MSS' successfully
+
+2019-05-31 09:44:03 - [MESSAGE][PASSED] - Navigate to 'https://qualif.authentification-entreprise.orange-business.com/authentification?TYPE=33554433&REALMOID=06-0003a11b-6947-1023-a1e9-7a6a0a63d064&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=gHvljL28RTfy5PzVgt3KAzaypkl7mUXvKZ7X9lWsdk5CylNYAMZUemCDdkXGmAYn&TARGET=-SM-https%3a%2f%2fmy--service--space--uat%2eorange--business%2ecom%2fwacsmss%2fgroup%2fmssportal%2fhome&codeContexte=MSS' successfully
+
+2019-05-31 09:44:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user"), "mss_uat_tst_smile_marc"): Text 'mss_uat_tst_smile_marc' is set on object 'Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user'
+
+2019-05-31 09:44:04 - [MESSAGE][PASSED] - Text 'mss_uat_tst_smile_marc' is set on object 'Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Login_user'
+
+2019-05-31 09:44:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd"), "ijdvIsWMz78SLKul36eVLbCn/PuUMCA6cHe61FHJLWM="): Text ****** has been set on object 'Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd'
+
+2019-05-31 09:44:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/mss_LoginPageObjects/Page_Authentication B2B/input_Password_pwd'
+
+2019-05-31 09:44:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in")): Object: 'Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in' is clicked on
+
+2019-05-31 09:44:04 - [MESSAGE][PASSED] - Object: 'Object Repository/mss_LoginPageObjects/Page_Authentication B2B/button_Sign in' is clicked on
+
+2019-05-31 09:44:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-31 09:44:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-31 09:43:53 - [TEST_SUITE][PASSED] - TestSuiteLogin1: Test Cases/MSS_LoginPage/ValidLoginTest]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
